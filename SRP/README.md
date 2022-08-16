@@ -11,3 +11,5 @@
         - 1. If we want to put in the another form lets say in JSON instead of Text we need to change
         - 2. If we want to find out the area of another shape still we need to change the code
     - So a piece of code which follows the SRP is implemented into example 2
+  <img width="661" alt="image" src="https://user-images.githubusercontent.com/70482944/184821206-577ebe6e-0de5-46d2-846e-9d2872abe9cc.png">
+
